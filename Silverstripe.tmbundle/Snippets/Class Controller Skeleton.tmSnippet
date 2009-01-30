@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?php
+	class $1 extends {$2:Page} {
+		static \$db = array(
+			$3 =&gt; $4,
+		);
+		static \$has_one = array(
+	     );
+	}
+
+	class {$1}_Controller extends {$2}_Controller {
+		function init() {
+			parent::init();
+		}
+
+	}
+?&gt;</string>
+	<key>name</key>
+	<string>Class Controller Skeleton</string>
+	<key>tabTrigger</key>
+	<string>skel</string>
+	<key>uuid</key>
+	<string>6D9D1267-7BE5-4F5F-B54D-A3B4B6CE72BB</string>
+</dict>
+</plist>
