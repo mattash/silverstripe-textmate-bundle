@@ -6,7 +6,7 @@
 	<string>&lt;?php
 	class $1 extends ${2:Page} {
 		static \$db = array(
-			"$3" =&gt; "$4",
+			"$3" =&gt; "${4:Varchar/Text/HTMLVarchar/HTMLText/Enum/Boolean/Int/Date/Datetime/Time}",$0
 		);
 		static \$has_one = array(
 	     );
@@ -16,7 +16,6 @@
 		function init() {
 			parent::init();
 		}
-
 	}
 ?&gt;</string>
 	<key>name</key>

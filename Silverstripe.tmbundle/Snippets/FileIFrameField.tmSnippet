@@ -3,18 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>function getCMSFields() {
-	\$fields = parent::getCMSFields();
-	\$fields-&gt;$0
-	return \$fields;
-}</string>
+	<string>new FileIFrameField("${1:name}")$0</string>
 	<key>name</key>
-	<string>getcmsfields</string>
+	<string>FileIFrameField</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>getcmsfields</string>
+	<string>newfield</string>
 	<key>uuid</key>
-	<string>84BD0159-53C7-48E9-AB63-ECACC150B7FB</string>
+	<string>9FEC924F-718A-4CC0-BF14-EE3A508DCB77</string>
 </dict>
 </plist>

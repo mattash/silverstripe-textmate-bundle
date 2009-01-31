@@ -12,6 +12,7 @@
 			<string>84722D3C-5EEB-46B9-A6CA-57D121366903</string>
 			<string>30DC4BBF-80E5-436F-8309-26C8E5224B44</string>
 			<string>8D4869A8-B88A-4EFD-9564-B4261CB113BB</string>
+			<string>42C58ADE-D843-4876-A654-C125E432D21F</string>
 		</array>
 		<key>submenus</key>
 		<dict>
@@ -25,6 +26,22 @@
 				</array>
 				<key>name</key>
 				<string>Template Snippets</string>
+			</dict>
+			<key>42C58ADE-D843-4876-A654-C125E432D21F</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>7BCB2A0E-B673-4671-9162-8BB36FE31DA1</string>
+					<string>5E01BBBD-64F5-498F-BA18-F540CA0AE8CC</string>
+					<string>E9FA091B-AF43-4165-A11C-7837AA5C01AD</string>
+					<string>9A806855-5BCA-426B-AF87-B3883994CE3E</string>
+					<string>6EB6E40E-4BB0-4130-AB9A-8A737D4B37E1</string>
+					<string>9FEC924F-718A-4CC0-BF14-EE3A508DCB77</string>
+					<string>3784EB88-C0FC-4A27-9CFD-C6C19ABB95A4</string>
+					<string>A77B4FF2-CDF5-4EE8-A707-EE3C6A16403D</string>
+				</array>
+				<key>name</key>
+				<string>Field Snippets</string>
 			</dict>
 			<key>84722D3C-5EEB-46B9-A6CA-57D121366903</key>
 			<dict>
@@ -77,6 +94,15 @@
 		<string>2037E6A1-1111-4F16-9538-9BB447BCBCF1</string>
 		<string>AE917EFB-57F5-400F-AA21-08335257AEC0</string>
 		<string>B87F7FF6-80E1-4837-ABAF-8FF442CB9335</string>
+		<string>6D9D1267-7BE5-4F5F-B54D-A3B4B6CE72BB</string>
+		<string>5E01BBBD-64F5-498F-BA18-F540CA0AE8CC</string>
+		<string>E9FA091B-AF43-4165-A11C-7837AA5C01AD</string>
+		<string>9A806855-5BCA-426B-AF87-B3883994CE3E</string>
+		<string>6EB6E40E-4BB0-4130-AB9A-8A737D4B37E1</string>
+		<string>9FEC924F-718A-4CC0-BF14-EE3A508DCB77</string>
+		<string>7BCB2A0E-B673-4671-9162-8BB36FE31DA1</string>
+		<string>3784EB88-C0FC-4A27-9CFD-C6C19ABB95A4</string>
+		<string>A77B4FF2-CDF5-4EE8-A707-EE3C6A16403D</string>
 	</array>
 	<key>uuid</key>
 	<string>DF28D654-9AF0-486F-B650-275B9606539E</string>

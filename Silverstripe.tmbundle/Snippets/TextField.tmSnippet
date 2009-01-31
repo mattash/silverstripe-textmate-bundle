@@ -3,18 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>function getCMSFields() {
-	\$fields = parent::getCMSFields();
-	\$fields-&gt;$0
-	return \$fields;
-}</string>
+	<string>new TextField("${1:name}","${2:title}","${3:value}")$0</string>
 	<key>name</key>
-	<string>getcmsfields</string>
+	<string>TextField</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>getcmsfields</string>
+	<string>newfield</string>
 	<key>uuid</key>
-	<string>84BD0159-53C7-48E9-AB63-ECACC150B7FB</string>
+	<string>5E01BBBD-64F5-498F-BA18-F540CA0AE8CC</string>
 </dict>
 </plist>

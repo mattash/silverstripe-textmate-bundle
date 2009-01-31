@@ -3,18 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>function getCMSFields() {
-	\$fields = parent::getCMSFields();
-	\$fields-&gt;$0
-	return \$fields;
-}</string>
+	<string>new CalendarDateField("${1:name}","${2:title}")$0</string>
 	<key>name</key>
-	<string>getcmsfields</string>
+	<string>CalendarDateField</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>getcmsfields</string>
+	<string>newfield</string>
 	<key>uuid</key>
-	<string>84BD0159-53C7-48E9-AB63-ECACC150B7FB</string>
+	<string>6EB6E40E-4BB0-4130-AB9A-8A737D4B37E1</string>
 </dict>
 </plist>

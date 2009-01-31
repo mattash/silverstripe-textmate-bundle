@@ -3,18 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>function getCMSFields() {
-	\$fields = parent::getCMSFields();
-	\$fields-&gt;$0
-	return \$fields;
-}</string>
+	<string>addFieldsToTab("${1:Root.Content}", $0,"${3:insertBefore}");
+</string>
 	<key>name</key>
-	<string>getcmsfields</string>
+	<string>addFieldToTab</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>getcmsfields</string>
+	<string>addfield</string>
 	<key>uuid</key>
-	<string>84BD0159-53C7-48E9-AB63-ECACC150B7FB</string>
+	<string>3784EB88-C0FC-4A27-9CFD-C6C19ABB95A4</string>
 </dict>
 </plist>
