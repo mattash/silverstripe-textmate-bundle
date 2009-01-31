@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>&lt;?php
-	class $1 extends {$2:Page} {
+	class $1 extends ${2:Page} {
 		static \$db = array(
 			$3 =&gt; $4,
 		);
@@ -12,7 +12,7 @@
 	     );
 	}
 
-	class {$1}_Controller extends {$2}_Controller {
+	class ${1}_Controller extends ${2}_Controller {
 		function init() {
 			parent::init();
 		}
@@ -21,6 +21,8 @@
 ?&gt;</string>
 	<key>name</key>
 	<string>Class Controller Skeleton</string>
+	<key>scope</key>
+	<string>source.php</string>
 	<key>tabTrigger</key>
 	<string>skel</string>
 	<key>uuid</key>
