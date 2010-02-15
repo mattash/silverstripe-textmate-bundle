@@ -19,7 +19,7 @@ These instructions assume your using Microsoft Vista or higher. From the Git Bas
 do the following. If you use Git another way in Windows, then you be aware of the location
 you should clone the repo into.
 
-1. `cd Users\%USERNAME%\AppData\Roaming\e\InstalledBundles`
+1. `cd ~/AppData/Roaming/e/InstalledBundles`
 2. `git clone git://github.com/mattash/silverstripe-textmate-bundle.git "Silverstripe.tmbundle" `
 
 ## Support & Contributing
