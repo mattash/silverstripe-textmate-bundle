@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>name</key>
+        <string>allowed_children</string>
+        <key>uuid</key>
+        <string>7C0D35FB-9883-4AF4-8543-6A1B23F304F0</string>
+        <key>content</key>
+        <string>static \$allowed_children = array("${1:Blog}"); //can also be "none";</string>
+        <key>scope</key>
+        <string></string>
+    </dict>
+</plist>

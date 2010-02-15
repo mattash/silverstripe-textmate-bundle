@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>name</key>
+        <string>default_parent</string>
+        <key>uuid</key>
+        <string>D6EB3139-2891-437E-9140-50129C8ACC90</string>
+        <key>content</key>
+        <string>static \$default_parent = "${1:BlogSuperHolder}";</string>
+        <key>scope</key>
+        <string></string>
+    </dict>
+</plist>

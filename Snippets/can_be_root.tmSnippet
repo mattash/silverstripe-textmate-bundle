@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>name</key>
+        <string>can_be_root</string>
+        <key>uuid</key>
+        <string>9796B729-B28E-452B-BD82-DF39B4F0388F</string>
+        <key>content</key>
+        <string>static \$can_be_root = ${1:false}; //default is true </string>
+        <key>scope</key>
+        <string></string>
+    </dict>
+</plist>

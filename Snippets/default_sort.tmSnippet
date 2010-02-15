@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>name</key>
+        <string>default_sort</string>
+        <key>uuid</key>
+        <string>B9089325-A2F0-4275-8461-6A0EF69C08CD</string>
+        <key>content</key>
+        <string>static \$default_sort = "${1:Sort ASC, Title ASC}";</string>
+        <key>scope</key>
+        <string></string>
+    </dict>
+</plist>

@@ -2,16 +2,17 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
     <dict>
-        <key>content</key>
-        <string>addFieldToTab("${1:Root.Content}", $0,"${3:insertBefore}");
-</string>
         <key>name</key>
-        <string>addFieldToTab</string>
+        <string>belongs_many_many</string>
+        <key>uuid</key>
+        <string>FB51F4BC-F65E-41D5-8E9E-2EFBE98811AE</string>
+        <key>content</key>
+        <string>static \$belongs_many_many = array(
+	'${1}' =&gt; '${2}',
+);</string>
         <key>scope</key>
         <string>source.php</string>
         <key>tabTrigger</key>
-        <string>addfield</string>
-        <key>uuid</key>
-        <string>3784EB88-C0FC-4A27-9CFD-C6C19ABB95A4</string>
+        <string>bmm</string>
     </dict>
 </plist>

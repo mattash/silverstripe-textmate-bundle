@@ -2,17 +2,15 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
     <dict>
+        <key>name</key>
+        <string>defaults</string>
+        <key>uuid</key>
+        <string>D70E7468-440F-444B-89A1-4AABE5FBA772</string>
         <key>content</key>
-        <string>static \$has_many = array(
+        <string>static \$defaults = array(
 	'${1}' =&gt; '${2}',
 );</string>
-        <key>name</key>
-        <string>has_many</string>
         <key>scope</key>
-        <string>source.php</string>
-        <key>tabTrigger</key>
-        <string>hm</string>
-        <key>uuid</key>
-        <string>82FA1AFB-2434-41CF-8B6A-258E860BAC97</string>
+        <string></string>
     </dict>
 </plist>

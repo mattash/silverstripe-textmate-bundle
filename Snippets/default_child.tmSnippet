@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>name</key>
+        <string>default_child</string>
+        <key>uuid</key>
+        <string>95249D79-4C57-4AB8-92FC-31FEC651D8E8</string>
+        <key>content</key>
+        <string>static \$default_child = "${1:Blog}"; 
+</string>
+        <key>scope</key>
+        <string></string>
+    </dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>name</key>
+        <string>hide_ancestor</string>
+        <key>uuid</key>
+        <string>4BBD117E-DD65-463E-89EB-7811C50F2218</string>
+        <key>content</key>
+        <string>static $hide_ancestor = "${1:MyUselessPage}";</string>
+        <key>scope</key>
+        <string></string>
+    </dict>
+</plist>

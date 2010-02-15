@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>name</key>
+        <string>indexes</string>
+        <key>uuid</key>
+        <string>1AC4BA5A-05F0-4BE8-96A6-93FE97429085</string>
+        <key>content</key>
+        <string>static \$indexes = array(
+	"SearchFields" =&gt; "${1:fulltext (Title, MenuTitle, Content, MetaTitle, MetaDescription, MetaKeywords)}",
+	"TitleSearchFields" =&gt; "${2:fulltext (Title)}",
+	"Sort" =&gt; ${3:true},
+	"Uniques" =&gt; "${4:Unique('URLSegment')}"
+);</string>
+        <key>scope</key>
+        <string></string>
+    </dict>
+</plist>
